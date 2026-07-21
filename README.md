@@ -1,6 +1,6 @@
 # Steam Player Forecasting with Time Series Models
 
-An end-to-end time series forecasting project that analyzes historical Steam player activity for multiple video games using classical statistical forecasting and diffusion models implemented in R.
+An time series forecasting project that analyzes historical Steam player activity for multiple video games using classical statistical forecasting and diffusion models implemented in R.
 
 ---
 
