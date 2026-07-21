@@ -1,0 +1,9 @@
+# R packages
+
+readxl
+forecast
+prophet
+DIMORA
+tseries
+dygraphs
+ggplot2
